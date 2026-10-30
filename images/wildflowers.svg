@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" role="img" aria-label="Wildflowers">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff3b0"/><stop offset="1" stop-color="#f7c873"/></linearGradient></defs>
+<rect width="600" height="380" fill="url(#sky)"/>
+<path d="M0 270 Q150 220 300 270 T600 270 V380 H0Z" fill="#6a994e"/><g stroke="#386641" stroke-width="6"><path d="M120 290V155 M250 290V120 M390 290V160 M500 290V130"/></g><g fill="#f2cc8f"><circle cx="120" cy="145" r="24"/><circle cx="250" cy="110" r="24"/><circle cx="390" cy="150" r="24"/><circle cx="500" cy="120" r="24"/></g>
+</svg>

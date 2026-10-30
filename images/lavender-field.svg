@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" role="img" aria-label="Lavender Field">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e0aaff"/><stop offset="1" stop-color="#c77dff"/></linearGradient></defs>
+<rect width="600" height="380" fill="url(#sky)"/>
+<path d="M0 230 Q150 180 300 230 T600 230V380H0Z" fill="#588157"/><g stroke="#386641" stroke-width="5"><path d="M80 330L110 110 M180 330L210 90 M300 330L320 120 M420 330L450 85 M520 330L540 125"/></g><g fill="#9d4edd"><circle cx="110" cy="110" r="18"/><circle cx="210" cy="90" r="18"/><circle cx="320" cy="120" r="18"/><circle cx="450" cy="85" r="18"/><circle cx="540" cy="125" r="18"/></g>
+</svg>

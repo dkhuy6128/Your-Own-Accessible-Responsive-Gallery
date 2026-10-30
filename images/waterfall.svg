@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" role="img" aria-label="Waterfall">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b7e4c7"/><stop offset="1" stop-color="#52b788"/></linearGradient></defs>
+<rect width="600" height="380" fill="url(#sky)"/>
+<path d="M0 0H600V380H0Z" fill="#386641"/><path d="M220 0H390L370 245H245Z" fill="#d8f3dc"/><path d="M245 245 Q300 220 370 245 L430 330 Q300 370 190 330Z" fill="#48cae4"/><path d="M0 340 Q150 300 300 345 T600 340V380H0Z" fill="#2d6a4f"/>
+</svg>

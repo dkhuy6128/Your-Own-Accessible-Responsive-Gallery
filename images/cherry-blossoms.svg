@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" role="img" aria-label="Spring Blossoms">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe5ec"/><stop offset="1" stop-color="#ffb3c6"/></linearGradient></defs>
+<rect width="600" height="380" fill="url(#sky)"/>
+<path d="M300 0V330 M300 120L170 55 M300 170L440 75 M300 230L170 180" stroke="#795548" stroke-width="22" fill="none"/><g fill="#ff8fab"><circle cx="160" cy="55" r="48"/><circle cx="210" cy="85" r="42"/><circle cx="440" cy="75" r="50"/><circle cx="390" cy="105" r="43"/><circle cx="180" cy="180" r="48"/><circle cx="300" cy="45" r="48"/></g>
+</svg>

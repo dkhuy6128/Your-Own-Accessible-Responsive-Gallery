@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" role="img" aria-label="Green Forest">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b7e4c7"/><stop offset="1" stop-color="#74c69d"/></linearGradient></defs>
+<rect width="600" height="380" fill="url(#sky)"/>
+<path d="M0 320 L0 190 90 90 180 190 180 320Z M130 320 L130 145 235 35 340 145 340 320Z M330 320 L330 170 440 65 550 170 550 320Z" fill="#2d6a4f"/><path d="M0 320H600V380H0Z" fill="#1b4332"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" role="img" aria-label="Blue Ocean">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#90e0ef"/><stop offset="1" stop-color="#00b4d8"/></linearGradient></defs>
+<rect width="600" height="380" fill="url(#sky)"/>
+<circle cx="460" cy="100" r="48" fill="#fff1a8"/><path d="M0 190 Q100 150 200 190 T400 190 T600 190 V380 H0Z" fill="#0077b6"/><path d="M0 250 Q100 210 200 250 T400 250 T600 250" fill="none" stroke="#caf0f8" stroke-width="12"/><path d="M0 315 Q100 275 200 315 T400 315 T600 315" fill="none" stroke="#90e0ef" stroke-width="10"/>
+</svg>
